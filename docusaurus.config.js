@@ -14,7 +14,7 @@ import rehypeKatex from 'rehype-katex';
 const config = {
   title: 'Computational Hydraulics',
   tagline: 'Numerical methods for water and hydraulic engineering problems',
-  favicon: 'img/favicon.ico',
+  favicon: 'wave.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -100,7 +100,7 @@ const config = {
         title: 'Computational Hydraulics',
         logo: {
           alt: 'Computational Hydraulics Logo',
-          src: 'img/logo.svg',
+          src: 'wave.png',
           href: '/docs/chapter-1/introduction',
         },
         items: [
