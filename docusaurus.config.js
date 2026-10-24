@@ -22,14 +22,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://oulebsir-rafik.github.io',
+  url: 'https://rafikoulebsir-usthb.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/computational-hydraulics-/',
+  baseUrl: '/Computational_hydraulics/',
 
   // GitHub pages deployment config.
-  organizationName: 'oulebsir-rafik', // Usually your GitHub org/user name.
-  projectName: 'computational-hydraulics-', // Usually your repo name.
+  organizationName: 'rafikoulebsir-usthb', // Usually your GitHub org/user name.
+  projectName: 'Computational_hydraulics', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -53,7 +53,7 @@ const config = {
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           editUrl:
-            'https://github.com/oulebsir-rafik/computational-hydraulics-/tree/main/',
+            'https://github.com/rafikoulebsir-usthb/Computational_hydraulics/tree/main/',
         },
         blog: false,
         theme: {
@@ -111,7 +111,7 @@ const config = {
             label: 'Course',
           },
           {
-            href: 'https://github.com/oulebsir-rafik/computational-hydraulics-',
+            href: 'https://github.com/rafikoulebsir-usthb/Computational_hydraulics',
             label: 'GitHub',
             position: 'right',
           },
@@ -134,7 +134,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/oulebsir-rafik/computational-hydraulics-',
+                href: 'https://github.com/rafikoulebsir-usthb/Computational_hydraulics',
               },
             ],
           },
